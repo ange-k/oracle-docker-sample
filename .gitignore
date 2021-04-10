@@ -1,0 +1,5 @@
+OracleDatabase/*
+oracle-docker/oradata/*
+oracle-docker/startup/*
+spy/drivers/*
+spy/schemaspy-6.1.0.jar
